@@ -1,0 +1,778 @@
+llvm[0]: Constructing LLVMBuild project information.
+make[1]: Entering directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/lib/Support'
+llvm[1]: Compiling APFloat.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling APInt.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling APSInt.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling Allocator.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling Atomic.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling BlockFrequency.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling BranchProbability.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling CommandLine.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling Compression.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling ConstantRange.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling ConvertUTF.c for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling ConvertUTFWrapper.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling CrashRecoveryContext.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling DAGDeltaAlgorithm.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling DataExtractor.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling DataStream.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling Debug.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling DeltaAlgorithm.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling Disassembler.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling Dwarf.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling DynamicLibrary.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling Errno.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling ErrorHandling.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling FileOutputBuffer.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling FileUtilities.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling FoldingSet.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling FormattedStream.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling GraphWriter.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling Hashing.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling Host.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling IncludeFile.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling IntEqClasses.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling IntervalMap.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling IntrusiveRefCntPtr.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling IsInf.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling IsNAN.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling Locale.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling LockFileManager.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling MD5.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling ManagedStatic.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling Memory.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling MemoryBuffer.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling MemoryObject.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling Mutex.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling Path.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+In file included from /mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/lib/Support/Path.cpp:1035:
+/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/lib/Support/Unix/Path.inc:548:2: error: Missing futimes() and futimens()
+#error Missing futimes() and futimens()
+ ^
+1 error generated.
+ERROR    root: [31mcompiler frontend failed to generate LLVM bitcode, halting[0m
+make[1]: *** [/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/lib/Support/Release+Asserts/Path.o] Error 1
+make[1]: Leaving directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/lib/Support'
+make: *** [all] Error 1
+make[1]: Entering directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/lib/Support'
+llvm[1]: Compiling Path.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling PluginLoader.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling PrettyStackTrace.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling Process.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+In file included from /mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/lib/Support/Process.cpp:103:
+/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/lib/Support/Unix/Process.inc:368:10: error: use of undeclared identifier 'arc4random'
+  return arc4random();
+         ^
+1 error generated.
+ERROR    root: [31mcompiler frontend failed to generate LLVM bitcode, halting[0m
+make[1]: *** [/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/lib/Support/Release+Asserts/Process.o] Error 1
+make[1]: Leaving directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/lib/Support'
+make: *** [all] Error 1
+make[1]: Entering directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/lib/Support'
+llvm[1]: Compiling Path.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling Process.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+In file included from /mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/lib/Support/Process.cpp:103:
+/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/lib/Support/Unix/Process.inc:368:10: error: use of undeclared identifier 'arc4random'
+  return arc4random();
+         ^
+1 error generated.
+ERROR    root: [31mcompiler frontend failed to generate LLVM bitcode, halting[0m
+make[1]: *** [/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/lib/Support/Release+Asserts/Process.o] Error 1
+make[1]: Leaving directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/lib/Support'
+make: *** [all] Error 1
+make[1]: Entering directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/lib/Support'
+llvm[1]: Compiling Process.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+In file included from /mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/lib/Support/Process.cpp:103:
+/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/lib/Support/Unix/Process.inc:375:27: error: use of undeclared identifier 'GetRandomNumberSeed'; did you mean 'GetRandomNumber'?
+  static int x = (::srand(GetRandomNumberSeed()), 0);
+                          ^~~~~~~~~~~~~~~~~~~
+                          GetRandomNumber
+/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/lib/Support/Unix/Process.inc:366:30: note: 'GetRandomNumber' declared here
+unsigned llvm::sys::Process::GetRandomNumber() {
+                             ^
+1 error generated.
+ERROR    root: [31mcompiler frontend failed to generate LLVM bitcode, halting[0m
+make[1]: *** [/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/lib/Support/Release+Asserts/Process.o] Error 1
+make[1]: Leaving directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/lib/Support'
+make: *** [all] Error 1
+make[1]: Entering directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/lib/Support'
+llvm[1]: Compiling Process.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling Program.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling RWMutex.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling Regex.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling SearchForAddressOfSpecialSymbol.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling Signals.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling SmallPtrSet.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling SmallVector.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling SourceMgr.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling Statistic.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling StreamableMemoryObject.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling StringExtras.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling StringMap.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling StringPool.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling StringRef.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling StringRefMemoryObject.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling SystemUtils.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling TargetRegistry.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling ThreadLocal.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling Threading.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling TimeValue.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling Timer.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling ToolOutputFile.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling Triple.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling Twine.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling Unicode.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling Valgrind.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling Watchdog.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling YAMLParser.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling YAMLTraits.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling circular_raw_ostream.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling raw_os_ostream.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling raw_ostream.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling regcomp.c for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling regerror.c for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling regexec.c for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling regfree.c for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling regstrlcpy.c for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling system_error.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Building Release+Asserts Archive Library libLLVMSupport.a
+make[1]: Leaving directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/lib/Support'
+make[1]: Entering directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/lib/TableGen'
+llvm[1]: Compiling Error.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling Main.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling Record.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling StringMatcher.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling TGLexer.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling TGParser.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling TableGenBackend.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Building Release+Asserts Archive Library libLLVMTableGen.a
+make[1]: Leaving directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/lib/TableGen'
+make[1]: Entering directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils'
+make[2]: Entering directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/FileCheck'
+llvm[2]: Compiling FileCheck.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[2]: Linking Release+Asserts executable FileCheck (without symbols)
+WARNING  root: [33m-I or -L of an absolute path "-L/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/Release+Asserts/lib" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+WARNING  root: [33memcc: cannot find library "m"[0m
+llvm[2]: ======= Finished Linking Release+Asserts Executable FileCheck (without symbols)
+make[2]: Leaving directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/FileCheck'
+make[2]: Entering directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/FileUpdate'
+llvm[2]: Compiling FileUpdate.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[2]: Linking Release+Asserts executable FileUpdate (without symbols)
+WARNING  root: [33m-I or -L of an absolute path "-L/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/Release+Asserts/lib" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+WARNING  root: [33memcc: cannot find library "m"[0m
+llvm[2]: ======= Finished Linking Release+Asserts Executable FileUpdate (without symbols)
+make[2]: Leaving directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/FileUpdate'
+make[2]: Entering directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/TableGen'
+llvm[2]: Compiling AsmMatcherEmitter.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[2]: Compiling AsmWriterEmitter.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[2]: Compiling AsmWriterInst.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[2]: Compiling CTagsEmitter.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[2]: Compiling CallingConvEmitter.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[2]: Compiling CodeEmitterGen.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[2]: Compiling CodeGenDAGPatterns.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[2]: Compiling CodeGenInstruction.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[2]: Compiling CodeGenMapTable.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[2]: Compiling CodeGenRegisters.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[2]: Compiling CodeGenSchedule.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[2]: Compiling CodeGenTarget.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[2]: Compiling DAGISelEmitter.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[2]: Compiling DAGISelMatcher.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[2]: Compiling DAGISelMatcherEmitter.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[2]: Compiling DAGISelMatcherGen.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[2]: Compiling DAGISelMatcherOpt.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[2]: Compiling DFAPacketizerEmitter.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[2]: Compiling DisassemblerEmitter.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[2]: Compiling FastISelEmitter.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[2]: Compiling FixedLenDecoderEmitter.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[2]: Compiling InstrInfoEmitter.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[2]: Compiling IntrinsicEmitter.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[2]: Compiling OptParserEmitter.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[2]: Compiling PseudoLoweringEmitter.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[2]: Compiling RegisterInfoEmitter.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[2]: Compiling SetTheory.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[2]: Compiling SubtargetEmitter.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[2]: Compiling TGValueTypes.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[2]: Compiling TableGen.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[2]: Compiling X86DisassemblerTables.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[2]: Compiling X86ModRMFilters.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[2]: Compiling X86RecognizableInstr.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[2]: Linking Release+Asserts executable llvm-tblgen (without symbols)
+WARNING  root: [33m-I or -L of an absolute path "-L/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/Release+Asserts/lib" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+WARNING  root: [33memcc: cannot find library "m"[0m
+llvm[2]: ======= Finished Linking Release+Asserts Executable llvm-tblgen (without symbols)
+make[2]: Leaving directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/TableGen'
+make[2]: Entering directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/PerfectShuffle'
+llvm[2]: Compiling PerfectShuffle.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[2]: Linking Release+Asserts executable llvm-PerfectShuffle (without symbols)
+WARNING  root: [33m-I or -L of an absolute path "-L/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/Release+Asserts/lib" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+WARNING  root: [33memcc: cannot find library "m"[0m
+llvm[2]: ======= Finished Linking Release+Asserts Executable llvm-PerfectShuffle (without symbols)
+make[2]: Leaving directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/PerfectShuffle'
+make[2]: Entering directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/count'
+llvm[2]: Compiling count.c for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[2]: Linking Release+Asserts executable count (without symbols)
+WARNING  root: [33m-I or -L of an absolute path "-L/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/Release+Asserts/lib" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+WARNING  root: [33memcc: cannot find library "m"[0m
+llvm[2]: ======= Finished Linking Release+Asserts Executable count (without symbols)
+make[2]: Leaving directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/count'
+make[2]: Entering directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/fpcmp'
+llvm[2]: Compiling fpcmp.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[2]: Linking Release+Asserts executable fpcmp (without symbols)
+WARNING  root: [33m-I or -L of an absolute path "-L/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/Release+Asserts/lib" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+WARNING  root: [33memcc: cannot find library "m"[0m
+llvm[2]: ======= Finished Linking Release+Asserts Executable fpcmp (without symbols)
+make[2]: Leaving directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/fpcmp'
+make[2]: Entering directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/llvm-lit'
+llvm[2]: Creating 'llvm-lit' script...
+make[2]: Leaving directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/llvm-lit'
+make[2]: Entering directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/not'
+llvm[2]: Compiling not.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[2]: Linking Release+Asserts executable not (without symbols)
+WARNING  root: [33m-I or -L of an absolute path "-L/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/Release+Asserts/lib" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+WARNING  root: [33memcc: cannot find library "m"[0m
+llvm[2]: ======= Finished Linking Release+Asserts Executable not (without symbols)
+make[2]: Leaving directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/not'
+make[2]: Entering directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/unittest'
+make[3]: Entering directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/unittest/googletest'
+llvm[3]: Compiling src/gtest-all.cc for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/utils/unittest/googletest/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+In file included from /mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/utils/unittest/googletest/src/gtest-all.cc:39:
+In file included from /mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/utils/unittest/googletest/include/gtest/gtest.h:65:
+/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/utils/unittest/googletest/include/gtest/gtest-typed-test.h:239:47: warning: variadic macros are a C99 feature [-Wvariadic-macros]
+# define REGISTER_TYPED_TEST_CASE_P(CaseName, ...) \
+                                              ^
+1 warning generated.
+llvm[3]: Building Release+Asserts Archive Library libgtest.a
+make[3]: Leaving directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/unittest/googletest'
+make[3]: Entering directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/unittest/UnitTestMain'
+llvm[3]: Compiling TestMain.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/utils/unittest/googletest/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+In file included from /mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/utils/unittest/UnitTestMain/TestMain.cpp:13:
+In file included from /mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/utils/unittest/googletest/include/gtest/gtest.h:65:
+/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/utils/unittest/googletest/include/gtest/gtest-typed-test.h:239:47: warning: variadic macros are a C99 feature [-Wvariadic-macros]
+# define REGISTER_TYPED_TEST_CASE_P(CaseName, ...) \
+                                              ^
+1 warning generated.
+llvm[3]: Building Release+Asserts Archive Library libgtest_main.a
+make[3]: Leaving directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/unittest/UnitTestMain'
+make[2]: Leaving directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/unittest'
+make[1]: Leaving directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils'
+make[1]: Entering directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/lib/IR'
+llvm[1]: Building Intrinsics.gen.tmp from Intrinsics.td
+make[1]: execvp: /mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/Release+Asserts/bin/llvm-tblgen: Permission denied
+make[1]: *** [/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/lib/IR/Release+Asserts/Intrinsics.gen.tmp] Error 127
+make[1]: Leaving directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/lib/IR'
+make: *** [all] Error 1
+make[1]: Entering directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/lib/Support'
+make[1]: Nothing to be done for `all'.
+make[1]: Leaving directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/lib/Support'
+make[1]: Entering directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/lib/TableGen'
+make[1]: Nothing to be done for `all'.
+make[1]: Leaving directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/lib/TableGen'
+make[1]: Entering directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils'
+make[2]: Entering directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/FileCheck'
+make[2]: Nothing to be done for `all'.
+make[2]: Leaving directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/FileCheck'
+make[2]: Entering directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/FileUpdate'
+make[2]: Nothing to be done for `all'.
+make[2]: Leaving directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/FileUpdate'
+make[2]: Entering directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/TableGen'
+make[2]: Nothing to be done for `all'.
+make[2]: Leaving directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/TableGen'
+make[2]: Entering directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/PerfectShuffle'
+make[2]: Nothing to be done for `all'.
+make[2]: Leaving directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/PerfectShuffle'
+make[2]: Entering directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/count'
+make[2]: Nothing to be done for `all'.
+make[2]: Leaving directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/count'
+make[2]: Entering directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/fpcmp'
+make[2]: Nothing to be done for `all'.
+make[2]: Leaving directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/fpcmp'
+make[2]: Entering directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/llvm-lit'
+make[2]: Nothing to be done for `all'.
+make[2]: Leaving directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/llvm-lit'
+make[2]: Entering directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/not'
+make[2]: Nothing to be done for `all'.
+make[2]: Leaving directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/not'
+make[2]: Entering directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/unittest'
+make[3]: Entering directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/unittest/googletest'
+llvm[3]: Compiling src/gtest-all.cc for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/utils/unittest/googletest/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[3]: Building Release+Asserts Archive Library libgtest.a
+make[3]: Leaving directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/unittest/googletest'
+make[3]: Entering directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/unittest/UnitTestMain'
+llvm[3]: Compiling TestMain.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/utils/unittest/googletest/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[3]: Building Release+Asserts Archive Library libgtest_main.a
+make[3]: Leaving directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/unittest/UnitTestMain'
+make[2]: Leaving directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/unittest'
+make[1]: Leaving directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils'
+make[1]: Entering directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/lib/IR'
+llvm[1]: Building Intrinsics.gen.tmp from Intrinsics.td
+make[1]: execvp: /mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/Release+Asserts/bin/llvm-tblgen: Permission denied
+make[1]: *** [/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/lib/IR/Release+Asserts/Intrinsics.gen.tmp] Error 127
+make[1]: Leaving directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/lib/IR'
+make: *** [all] Error 1
+make[1]: Entering directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/lib/Support'
+make[1]: Nothing to be done for `all'.
+make[1]: Leaving directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/lib/Support'
+make[1]: Entering directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/lib/TableGen'
+make[1]: Nothing to be done for `all'.
+make[1]: Leaving directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/lib/TableGen'
+make[1]: Entering directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils'
+make[2]: Entering directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/FileCheck'
+make[2]: Nothing to be done for `all'.
+make[2]: Leaving directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/FileCheck'
+make[2]: Entering directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/FileUpdate'
+make[2]: Nothing to be done for `all'.
+make[2]: Leaving directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/FileUpdate'
+make[2]: Entering directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/PerfectShuffle'
+make[2]: Nothing to be done for `all'.
+make[2]: Leaving directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/PerfectShuffle'
+make[2]: Entering directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/count'
+make[2]: Nothing to be done for `all'.
+make[2]: Leaving directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/count'
+make[2]: Entering directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/fpcmp'
+make[2]: Nothing to be done for `all'.
+make[2]: Leaving directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/fpcmp'
+make[2]: Entering directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/llvm-lit'
+make[2]: Nothing to be done for `all'.
+make[2]: Leaving directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/llvm-lit'
+make[2]: Entering directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/not'
+make[2]: Nothing to be done for `all'.
+make[2]: Leaving directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/not'
+make[2]: Entering directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/unittest'
+make[3]: Entering directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/unittest/googletest'
+make[3]: Nothing to be done for `all'.
+make[3]: Leaving directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/unittest/googletest'
+make[3]: Entering directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/unittest/UnitTestMain'
+make[3]: Nothing to be done for `all'.
+make[3]: Leaving directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/unittest/UnitTestMain'
+make[2]: Leaving directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils/unittest'
+make[1]: Leaving directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/utils'
+make[1]: Entering directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/lib/IR'
+llvm[1]: Building Intrinsics.gen.tmp from Intrinsics.td
+llvm[1]: Updated Intrinsics.gen because Intrinsics.gen.tmp changed significantly.
+llvm[1]: Compiling AsmWriter.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling Attributes.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling AutoUpgrade.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling BasicBlock.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling ConstantFold.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling Constants.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/lib/IR/Constants.cpp:1770:64: warning: missing sentinel in function call [-Wsentinel]
+    StructType::get(Type::getInt1Ty(Ty->getContext()), Ty, NULL);
+                                                               ^
+                                                               , NULL
+/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/include/llvm/IR/DerivedTypes.h:239:22: note: function has been explicitly marked sentinel here
+  static StructType *get(Type *elt1, ...) END_WITH_NULL;
+                     ^
+1 warning generated.
+llvm[1]: Compiling Core.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling DIBuilder.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling DataLayout.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling DebugInfo.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling DebugLoc.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling Dominators.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling Function.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling GCOV.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling GVMaterializer.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling Globals.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling IRBuilder.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling InlineAsm.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling Instruction.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling Instructions.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/lib/IR/Instructions.cpp:421:71: warning: missing sentinel in function call [-Wsentinel]
+    MallocFunc = M->getOrInsertFunction("malloc", BPTy, IntPtrTy, NULL);
+                                                                      ^
+                                                                      , NULL
+/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/include/llvm/IR/Module.h:340:13: note: function has been explicitly marked sentinel here
+  Constant *getOrInsertFunction(StringRef Name, Type *RetTy, ...)
+            ^
+/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/lib/IR/Instructions.cpp:494:74: warning: missing sentinel in function call [-Wsentinel]
+  Value *FreeFunc = M->getOrInsertFunction("free", VoidTy, IntPtrTy, NULL);
+                                                                         ^
+                                                                         , NULL
+/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/include/llvm/IR/Module.h:340:13: note: function has been explicitly marked sentinel here
+  Constant *getOrInsertFunction(StringRef Name, Type *RetTy, ...)
+            ^
+2 warnings generated.
+llvm[1]: Compiling IntrinsicInst.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling LLVMContext.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling LLVMContextImpl.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling LeakDetector.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling LegacyPassManager.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling Metadata.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling Module.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling NaClAtomicIntrinsics.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling Pass.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling PassManager.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling PassRegistry.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling PrintModulePass.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling Type.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling TypeFinder.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling Use.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling User.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling Value.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling ValueSymbolTable.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling ValueTypes.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Compiling Verifier.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[1]: Building Release+Asserts Archive Library libLLVMCore.a
+make[1]: Leaving directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/lib/IR'
+make[1]: Entering directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/lib'
+make[2]: Entering directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/lib/IR'
+make[2]: Nothing to be done for `all'.
+make[2]: Leaving directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/lib/IR'
+make[2]: Entering directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/lib/AsmParser'
+llvm[2]: Compiling LLLexer.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[2]: Compiling LLParser.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[2]: Compiling Parser.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[2]: Building Release+Asserts Archive Library libLLVMAsmParser.a
+make[2]: Leaving directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/lib/AsmParser'
+make[2]: Entering directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/lib/Bitcode'
+make[3]: Entering directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/lib/Bitcode/Reader'
+llvm[3]: Compiling BitReader.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[3]: Compiling BitcodeReader.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[3]: Compiling BitstreamReader.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[3]: Building Release+Asserts Archive Library libLLVMBitReader.a
+make[3]: Leaving directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/lib/Bitcode/Reader'
+make[3]: Entering directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/lib/Bitcode/Writer'
+llvm[3]: Compiling BitWriter.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[3]: Compiling BitcodeWriter.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[3]: Compiling BitcodeWriterPass.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[3]: Compiling ValueEnumerator.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[3]: Building Release+Asserts Archive Library libLLVMBitWriter.a
+make[3]: Leaving directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/lib/Bitcode/Writer'
+make[3]: Entering directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/lib/Bitcode/NaCl'
+make[4]: Entering directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/lib/Bitcode/NaCl/Writer'
+llvm[4]: Compiling NaClBitcodeWriter.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[4]: Compiling NaClValueEnumerator.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[4]: Building Release+Asserts Archive Library libLLVMNaClBitWriter.a
+make[4]: Leaving directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/lib/Bitcode/NaCl/Writer'
+make[4]: Entering directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/lib/Bitcode/NaCl/Reader'
+llvm[4]: Compiling NaClAnalyzerBlockDist.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[4]: Compiling NaClBitCodes.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[4]: Compiling NaClBitcodeAbbrevDist.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[4]: Compiling NaClBitcodeAnalyzer.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/lib/Bitcode/NaCl/Reader/NaClBitcodeAnalyzer.cpp:447:13: warning: unused function 'PrintSize' [-Wunused-function]
+static void PrintSize(double Bits, raw_ostream &OS) {
+            ^
+1 warning generated.
+llvm[4]: Compiling NaClBitcodeBitsAndAbbrevsDist.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[4]: Compiling NaClBitcodeBitsDist.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[4]: Compiling NaClBitcodeBlockDist.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[4]: Compiling NaClBitcodeCodeDist.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[4]: Compiling NaClBitcodeDist.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[4]: Compiling NaClBitcodeHeader.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[4]: Compiling NaClBitcodeParser.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[4]: Compiling NaClBitcodeReader.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[4]: Compiling NaClBitcodeSizeDist.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[4]: Compiling NaClBitcodeSubblockDist.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[4]: Compiling NaClBitcodeValueDist.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[4]: Compiling NaClBitstreamReader.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[4]: Compiling NaClCompressBlockDist.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+In file included from /mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/lib/Bitcode/NaCl/Reader/NaClCompressBlockDist.cpp:12:
+/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/include/llvm/Bitcode/NaCl/NaClCompressBlockDist.h:55:12: warning: private field 'BlockID' is not used [-Wunused-private-field]
+  unsigned BlockID;
+           ^
+1 warning generated.
+llvm[4]: Compiling NaClCompressCodeDist.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+llvm[4]: Building Release+Asserts Archive Library libLLVMNaClBitReader.a
+make[4]: Leaving directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/lib/Bitcode/NaCl/Reader'
+make[3]: Leaving directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/lib/Bitcode/NaCl'
+make[2]: Leaving directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/lib/Bitcode'
+make[2]: Entering directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/lib/Analysis'
+llvm[2]: Compiling AliasAnalysis.cpp for Release+Asserts build
+WARNING  root: [33m-I or -L of an absolute path "-I/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/include" encountered. If this is to a local system header/library, it may cause problems (local system files make sense for compiling natively on your system, but not necessarily to JavaScript). Pass '-Wno-warn-absolute-paths' to emcc to hide this warning.[0m
+In file included from /mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/lib/Analysis/AliasAnalysis.cpp:40:
+/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/include/llvm/Target/TargetLibraryInfo.h:263:7: error: redefinition of enumerator 'fopen'
+      fopen64,
+      ^
+/mnt/home/ec2-user/build/emscripten/system/include/libc/stdio.h:189:17: note: expanded from macro 'fopen64'
+#define fopen64 fopen
+                ^
+/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/include/llvm/Target/TargetLibraryInfo.h:261:7: note: previous definition is here
+      fopen,
+      ^
+/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/include/llvm/Target/TargetLibraryInfo.h:287:7: error: redefinition of enumerator 'fseeko'
+      fseeko64,
+      ^
+/mnt/home/ec2-user/build/emscripten/system/include/libc/stdio.h:191:18: note: expanded from macro 'fseeko64'
+#define fseeko64 fseeko
+                 ^
+/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/include/llvm/Target/TargetLibraryInfo.h:285:7: note: previous definition is here
+      fseeko,
+      ^
+/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/include/llvm/Target/TargetLibraryInfo.h:303:7: error: redefinition of enumerator 'ftello'
+      ftello64,
+      ^
+/mnt/home/ec2-user/build/emscripten/system/include/libc/stdio.h:192:18: note: expanded from macro 'ftello64'
+#define ftello64 ftello
+                 ^
+/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/include/llvm/Target/TargetLibraryInfo.h:301:7: note: previous definition is here
+      ftello,
+      ^
+/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/include/llvm/Target/TargetLibraryInfo.h:610:7: error: redefinition of enumerator 'tmpfile'
+      tmpfile64,
+      ^
+/mnt/home/ec2-user/build/emscripten/system/include/libc/stdio.h:188:19: note: expanded from macro 'tmpfile64'
+#define tmpfile64 tmpfile
+                  ^
+/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/include/llvm/Target/TargetLibraryInfo.h:608:7: note: previous definition is here
+      tmpfile,
+      ^
+/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/include/llvm/Target/TargetLibraryInfo.h:712:10: error: duplicate case value: 'sqrt_finite' and 'log2' both equal '27'
+    case LibFunc::log2:      case LibFunc::log2f:      case LibFunc::log2l:
+         ^
+/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/include/llvm/Target/TargetLibraryInfo.h:704:10: note: previous case defined here
+    case LibFunc::sqrt_finite: case LibFunc::sqrtf_finite:
+         ^
+/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/include/llvm/Target/TargetLibraryInfo.h:712:35: error: duplicate case value: 'sqrtf_finite' and 'log2f' both equal '28'
+    case LibFunc::log2:      case LibFunc::log2f:      case LibFunc::log2l:
+                                  ^
+/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/include/llvm/Target/TargetLibraryInfo.h:704:37: note: previous case defined here
+    case LibFunc::sqrt_finite: case LibFunc::sqrtf_finite:
+                                    ^
+/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/include/llvm/Target/TargetLibraryInfo.h:712:61: error: duplicate case value: 'sqrtl_finite' and 'log2l' both equal '29'
+    case LibFunc::log2:      case LibFunc::log2f:      case LibFunc::log2l:
+                                                            ^
+/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/include/llvm/Target/TargetLibraryInfo.h:705:56: note: previous case defined here
+                                                  case LibFunc::sqrtl_finite:
+                                                       ^
+/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/include/llvm/Target/TargetLibraryInfo.h:709:10: error: duplicate case value: 'cosl' and 'rint' both equal '82'
+    case LibFunc::rint:      case LibFunc::rintf:      case LibFunc::rintl:
+         ^
+/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/include/llvm/Target/TargetLibraryInfo.h:702:61: note: previous case defined here
+    case LibFunc::cos:       case LibFunc::cosf:       case LibFunc::cosl:
+                                                            ^
+/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/include/llvm/Target/TargetLibraryInfo.h:713:10: error: duplicate case value: 'roundl' and 'exp2' both equal '88'
+    case LibFunc::exp2:      case LibFunc::exp2f:      case LibFunc::exp2l:
+         ^
+/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/include/llvm/Target/TargetLibraryInfo.h:710:61: note: previous case defined here
+    case LibFunc::round:     case LibFunc::roundf:     case LibFunc::roundl:
+                                                            ^
+/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/include/llvm/Target/TargetLibraryInfo.h:701:61: error: duplicate case value: 'fabsl' and 'sinl' both equal '98'
+    case LibFunc::sin:       case LibFunc::sinf:       case LibFunc::sinl:
+                                                            ^
+/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/include/llvm/Target/TargetLibraryInfo.h:700:61: note: previous case defined here
+    case LibFunc::fabs:      case LibFunc::fabsf:      case LibFunc::fabsl:
+                                                            ^
+/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/include/llvm/Target/TargetLibraryInfo.h:714:35: error: duplicate case value: 'floorl' and 'strcmp' both equal '115'
+    case LibFunc::memcmp:    case LibFunc::strcmp:     case LibFunc::strcpy:
+                                  ^
+/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/include/llvm/Target/TargetLibraryInfo.h:706:61: note: previous case defined here
+    case LibFunc::floor:     case LibFunc::floorf:     case LibFunc::floorl:
+                                                            ^
+11 errors generated.
+ERROR    root: [31mcompiler frontend failed to generate LLVM bitcode, halting[0m
+make[2]: *** [/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/lib/Analysis/Release+Asserts/AliasAnalysis.o] Error 1
+make[2]: Leaving directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/lib/Analysis'
+make[1]: *** [Analysis/.makeall] Error 2
+make[1]: Leaving directory `/mnt/home/ec2-user/build/fastcomp_js/emscripten-fastcomp/build/lib'
+make: *** [all] Error 1
