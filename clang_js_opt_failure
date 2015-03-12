@@ -1,0 +1,105 @@
+ERROR    root: [31mSHELL=/bin/bash -x: No such file or directory ("SHELL=/bin/bash -x" was expected to be an input file, based on the commandline arguments provided)[0m
+WARNING  root: [33minvocation: /mnt/home/ec2-user/build/emscripten/emcc hello.cpp -v  (in /mnt/home/ec2-user/build/test)[0m
+INFO     root: [32m(Emscripten: Running sanity checks)[0m
+INFO     root: [32m(Emscripten: Running sanity checks)[0m
+DEBUG    root: [35mcompiling to bitcode[0m
+DEBUG    root: [35memcc step "parse arguments and setup" took 0.09 seconds[0m
+DEBUG    root: [35mcompiling source file: hello.cpp[0m
+DEBUG    root: [35mrunning: /mnt/home/ec2-user/build/myfastcomp/emscripten-fastcomp/build/Release/bin/clang++ -target asmjs-unknown-emscripten -D__EMSCRIPTEN_major__=1 -D__EMSCRIPTEN_minor__=29 -D__EMSCRIPTEN_tiny__=0 -Werror=implicit-function-declaration -nostdinc -Xclang -nobuiltininc -Xclang -nostdsysteminc -Xclang -isystem/mnt/home/ec2-user/build/emscripten/system/local/include -Xclang -isystem/mnt/home/ec2-user/build/emscripten/system/include/compat -Xclang -isystem/mnt/home/ec2-user/build/emscripten/system/include -Xclang -isystem/mnt/home/ec2-user/build/emscripten/system/include/emscripten -Xclang -isystem/mnt/home/ec2-user/build/emscripten/system/include/libc -Xclang -isystem/mnt/home/ec2-user/build/emscripten/system/lib/libc/musl/arch/js -Xclang -isystem/mnt/home/ec2-user/build/emscripten/system/include/libcxx -v -std=c++03 -emit-llvm -c hello.cpp -o /tmp/tmpQXAiPF/hello_0.o -Xclang -isystem/mnt/home/ec2-user/build/emscripten/system/include/SDL[0m
+clang version 3.4 (https://github.com/kripken/emscripten-fastcomp-clang 9c1cbcbffe07e4df61d0ded3cf0ad03f2d5c810d) (https://github.com/kripken/emscripten-fastcomp 49ddcf56abaec79502ac50672d65795f0f87b5d5)
+Target: asmjs-unknown-emscripten
+Thread model: posix
+ "/mnt/home/ec2-user/build/myfastcomp/emscripten-fastcomp/build/Release/bin/clang" -cc1 -triple asmjs-unknown-emscripten -emit-llvm-bc -disable-free -disable-llvm-verifier -main-file-name hello.cpp -mrelocation-model static -mdisable-fp-elim -mconstructor-aliases -target-linker-version 2.23.52.0.1 -v -coverage-file /tmp/tmpQXAiPF/hello_0.o -nostdsysteminc -nobuiltininc -resource-dir /mnt/home/ec2-user/build/myfastcomp/emscripten-fastcomp/build/Release/bin/../lib/clang/3.4 -D __EMSCRIPTEN_major__=1 -D __EMSCRIPTEN_minor__=29 -D __EMSCRIPTEN_tiny__=0 -Werror=implicit-function-declaration -std=c++03 -fdeprecated-macro -fno-dwarf-directory-asm -fdebug-compilation-dir /home/ec2-user/build/test -ferror-limit 19 -fmessage-length 0 -mstackrealign -fobjc-runtime=gnustep -fcxx-exceptions -fexceptions -fdiagnostics-show-option -vectorize-slp -nobuiltininc -nostdsysteminc -isystem/mnt/home/ec2-user/build/emscripten/system/local/include -isystem/mnt/home/ec2-user/build/emscripten/system/include/compat -isystem/mnt/home/ec2-user/build/emscripten/system/include -isystem/mnt/home/ec2-user/build/emscripten/system/include/emscripten -isystem/mnt/home/ec2-user/build/emscripten/system/include/libc -isystem/mnt/home/ec2-user/build/emscripten/system/lib/libc/musl/arch/js -isystem/mnt/home/ec2-user/build/emscripten/system/include/libcxx -isystem/mnt/home/ec2-user/build/emscripten/system/include/SDL -o /tmp/tmpQXAiPF/hello_0.o -x c++ hello.cpp
+clang -cc1 version 3.4 based upon LLVM 3.4svn default target x86_64-unknown-linux-gnu
+#include "..." search starts here:
+#include <...> search starts here:
+ /mnt/home/ec2-user/build/emscripten/system/local/include
+ /mnt/home/ec2-user/build/emscripten/system/include/compat
+ /mnt/home/ec2-user/build/emscripten/system/include
+ /mnt/home/ec2-user/build/emscripten/system/include/emscripten
+ /mnt/home/ec2-user/build/emscripten/system/include/libc
+ /mnt/home/ec2-user/build/emscripten/system/lib/libc/musl/arch/js
+ /mnt/home/ec2-user/build/emscripten/system/include/libcxx
+ /mnt/home/ec2-user/build/emscripten/system/include/SDL
+End of search list.
+DEBUG    root: [35memcc step "bitcodeize inputs" took 0.41 seconds[0m
+DEBUG    root: [35memcc step "process inputs" took 0.00 seconds[0m
+DEBUG    root: [35mwill generate JavaScript[0m
+DEBUG    root: [35mincluding libcxx[0m
+DEBUG    root: [35mincluding libcextra[0m
+DEBUG    root: [35mincluding libcxxabi[0m
+DEBUG    root: [35mincluding libc[0m
+DEBUG    root: [35memcc step "calculate system libraries" took 0.01 seconds[0m
+DEBUG    root: [35mlinking: ['/tmp/tmpQXAiPF/hello_0.o', '/home/ec2-user/.emscripten_cache/libcxx.bc', '/home/ec2-user/.emscripten_cache/libcextra.bc', '/home/ec2-user/.emscripten_cache/libcxxabi.bc', '/home/ec2-user/.emscripten_cache/libc.bc'][0m
+DEBUG    root: [35memcc: llvm-linking: ['/tmp/tmpQXAiPF/hello_0.o', '/home/ec2-user/.emscripten_cache/libcxx.bc', '/home/ec2-user/.emscripten_cache/libcextra.bc', '/home/ec2-user/.emscripten_cache/libcxxabi.bc', '/home/ec2-user/.emscripten_cache/libc.bc'] to /tmp/tmpQXAiPF/a.out.bc[0m
+DEBUG    root: [35memcc step "link" took 0.38 seconds[0m
+DEBUG    root: [35msaving intermediate processing steps to /tmp/emscripten_temp[0m
+DEBUG    root: [35memcc: LLVM opts: -strip-debug -internalize -internalize-public-api-list=main,malloc,free,__cxa_can_catch,__cxa_is_pointer_type -globaldce -pnacl-abi-simplify-preopt -pnacl-abi-simplify-postopt -enable-emscripten-cxx-exceptions -disable-vectorize[0m
+DEBUG    root: [35memcc step "post-link" took 0.23 seconds[0m
+DEBUG    root: [35mLLVM => JS[0m
+DEBUG    root: [35memscript: llvm backend: /mnt/home/ec2-user/build/myfastcomp/emscripten-fastcomp/build/Release/bin/llc /tmp/tmpQXAiPF/a.out.bc -march=js -filetype=asm -o /tmp/emscripten_temp/tmpnZ4_Tb.4.js -emscripten-assertions=1 -emscripten-no-aliasing-function-pointers -O0 -emscripten-max-setjmps=20[0m
+DEBUG    root: [35m  emscript: llvm backend took 0.2195789814 seconds[0m
+DEBUG    root: [35memscript: js compiler glue[0m
+DEBUG    root: [35m  emscript: glue took 0.215954065323 seconds[0m
+DEBUG    root: [35masm text sizes[[1757269, 18137, 25], 16934, 314, 5247, 0, 5184, 74279, 1322, 234, 4167, 6890][0m
+DEBUG    root: [35m  emscript: final python processing took 0.0257139205933 seconds[0m
+DEBUG    root: [35memcc step "emscript (llvm=>js)" took 0.62 seconds[0m
+DEBUG    root: [35moptimizing memory initialization[0m
+DEBUG    root: [35memcc step "source transforms" took 0.02 seconds[0m
+DEBUG    root: [35memcc step "js opts" took 0.00 seconds[0m
+DEBUG    root: [35memcc step "final emitting" took 0.00 seconds[0m
+DEBUG    root: [35mtotal time: 1.67 seconds[0m
+ERROR    root: [31mEMCC_DEBUG=1: No such file or directory ("EMCC_DEBUG=1" was expected to be an input file, based on the commandline arguments provided)[0m
+WARNING  root: [33minvocation: /mnt/home/ec2-user/build/emscripten/emcc -O3 clang.bc -o clang.js  (in /mnt/home/ec2-user/build/test)[0m
+INFO     root: [32m(Emscripten: Running sanity checks)[0m
+DEBUG    root: [35mcompiling to bitcode[0m
+DEBUG    root: [35memcc step "parse arguments and setup" took 0.00 seconds[0m
+DEBUG    root: [35musing bitcode file: clang.bc[0m
+DEBUG    root: [35memcc step "bitcodeize inputs" took 0.00 seconds[0m
+DEBUG    root: [35memcc step "process inputs" took 0.00 seconds[0m
+DEBUG    root: [35mwill generate JavaScript[0m
+DEBUG    root: [35mincluding libcxx[0m
+DEBUG    root: [35mincluding libcextra[0m
+DEBUG    root: [35mincluding libcxxabi[0m
+DEBUG    root: [35mincluding libc[0m
+DEBUG    root: [35memcc step "calculate system libraries" took 88.22 seconds[0m
+DEBUG    root: [35mlinking: ['clang.bc', '/home/ec2-user/.emscripten_cache/libcxx.bc', '/home/ec2-user/.emscripten_cache/libcextra.bc', '/home/ec2-user/.emscripten_cache/libcxxabi.bc', '/home/ec2-user/.emscripten_cache/libc.bc'][0m
+DEBUG    root: [35memcc: llvm-linking: ['/mnt/home/ec2-user/build/test/clang.bc', '/home/ec2-user/.emscripten_cache/libcxx.bc', '/home/ec2-user/.emscripten_cache/libcextra.bc', '/home/ec2-user/.emscripten_cache/libcxxabi.bc', '/home/ec2-user/.emscripten_cache/libc.bc'] to /tmp/tmp_yGGJE/clang.bc[0m
+DEBUG    root: [35memcc step "link" took 9800.35 seconds[0m
+DEBUG    root: [35msaving intermediate processing steps to /tmp/emscripten_temp[0m
+DEBUG    root: [35memcc: LLVM opts: -strip-debug -internalize -internalize-public-api-list=main,malloc,free,malloc,free,malloc,malloc,malloc,free,free,malloc,malloc,free,malloc -globaldce -pnacl-abi-simplify-preopt -pnacl-abi-simplify-postopt -disable-vectorize[0m
+DEBUG    root: [35memcc step "post-link" took 83158.87 seconds[0m
+DEBUG    root: [35mLLVM => JS[0m
+DEBUG    root: [35mnot building relooper to js, using it in c++ backend[0m
+DEBUG    root: [35memscript: llvm backend: /mnt/home/ec2-user/build/myfastcomp/emscripten-fastcomp/build/Release/bin/llc /tmp/tmp_yGGJE/clang.bc -march=js -filetype=asm -o /tmp/emscripten_temp/tmp5HiUSb.4.js -O3 -emscripten-max-setjmps=20[0m
+DEBUG    root: [35m  emscript: llvm backend took 25810.1362071 seconds[0m
+DEBUG    root: [35memscript: js compiler glue[0m
+DEBUG    root: [35m  emscript: glue took 15.8401319981 seconds[0m
+DEBUG    root: [35masm text sizes[[261729669, 20635, 25], 6702, 314, 7360, 0, 6636, 741523, 9460, 234, 5713, 18681][0m
+DEBUG    root: [35m  emscript: final python processing took 211.522727966 seconds[0m
+DEBUG    root: [35memcc step "emscript (llvm=>js)" took 26958.20 seconds[0m
+DEBUG    root: [35mwrote memory initialization to clang.js.mem[0m
+DEBUG    root: [35memcc step "source transforms" took 406.60 seconds[0m
+DEBUG    root: [35mrunning js post-opts[0m
+DEBUG    root: [35mapplying js optimization passes: ['asm', 'eliminate', 'simplifyExpressions', 'simplifyIfs', 'registerizeHarder', 'minifyNames', 'cleanup', 'asmLastOpts', 'last', 'minifyWhitespace'][0m
+chunkification: num funcs: 32478 actual num chunks: 51 chunk size range: 5242710 - 3758013
+Traceback (most recent call last):
+  File "/mnt/home/ec2-user/build/emscripten/emcc", line 1529, in <module>
+    flush_js_optimizer_queue()
+  File "/mnt/home/ec2-user/build/emscripten/emcc", line 1435, in flush_js_optimizer_queue
+    run_passes(chunks[0], title, just_split=False, just_concat=False)
+  File "/mnt/home/ec2-user/build/emscripten/emcc", line 1409, in run_passes
+    final = shared.Building.js_optimizer(final, passes, jcache, debug_level >= 4, js_optimizer_extra_info, just_split=just_split, just_concat=just_concat)
+  File "/mnt/home/ec2-user/build/emscripten/tools/shared.py", line 1637, in js_optimizer
+    ret = js_optimizer.run(filename, passes, NODE_JS, jcache, debug, extra_info, just_split, just_concat)
+  File "/mnt/home/ec2-user/build/emscripten/tools/js_optimizer.py", line 479, in run
+    return temp_files.run_and_clean(lambda: run_on_js(filename, passes, js_engine, jcache, source_map, extra_info, just_split, just_concat))
+  File "/mnt/home/ec2-user/build/emscripten/tools/tempfiles.py", line 39, in run_and_clean
+    return func()
+  File "/mnt/home/ec2-user/build/emscripten/tools/js_optimizer.py", line 479, in <lambda>
+    return temp_files.run_and_clean(lambda: run_on_js(filename, passes, js_engine, jcache, source_map, extra_info, just_split, just_concat))
+  File "/mnt/home/ec2-user/build/emscripten/tools/js_optimizer.py", line 360, in run_on_js
+    filenames = [write_chunk(chunks[i], i) for i in range(len(chunks))]
+  File "/mnt/home/ec2-user/build/emscripten/tools/js_optimizer.py", line 354, in write_chunk
+    f.write('// EXTRA_INFO:' + json.dumps(minify_info))
+IOError: [Errno 28] No space left on device
